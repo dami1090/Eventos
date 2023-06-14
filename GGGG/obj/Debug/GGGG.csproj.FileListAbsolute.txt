@@ -1,0 +1,6 @@
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\bin\Debug\GGGG.dll
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\bin\Debug\GGGG.pdb
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\obj\Debug\GGGG.csproj.AssemblyReference.cache
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\obj\Debug\GGGG.csproj.CoreCompileInputs.cache
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\obj\Debug\GGGG.dll
+D:\UTN\2023 -lab ll\Eventos1\Eventos1\GGGG\obj\Debug\GGGG.pdb
